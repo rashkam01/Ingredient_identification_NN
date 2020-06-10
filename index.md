@@ -1,6 +1,6 @@
 # Introduction 
 
-This project involves building a neural network model to identify ingredients from german recipes. Given the receipe, the named entity recognition model identifies the ingredients from the recipe. 
+This project involves building a neural network model to identify ingredients from german recipes dataset. Given the receipe, a nerual network and a named entity recognition model identifies the ingredients from the recipe. 
 Open data source with german recipes crawled from chefkoch.de is used for the purpose.  
  
 # Project 
