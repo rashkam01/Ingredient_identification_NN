@@ -190,4 +190,4 @@ Following is the Ingredients provided
 Following are the ingredients identified by our model 
 Kohlrabi, schälen, Brühe, Milch, Kochschinken, Petersilie, Frischkäse, Salz, Pfeffer, Saucenbinder, Salat
 
-Our model is able to identify the ingredients quite well. 
+Our model is able to identify the ingredients quite well.  
