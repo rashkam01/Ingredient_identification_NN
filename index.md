@@ -155,6 +155,8 @@ plt.legend();
 plt.title("Loss");
 ```
 ![loss_plot](loss_plot.PNG)
+
+
 We achieve around 95% accuracy for our model on training data. 
 Now time to test how well it is performing on our test dataset. 
 
