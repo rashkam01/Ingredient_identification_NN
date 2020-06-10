@@ -54,6 +54,5 @@ For example, from recipe number 4, we find these tokens for our named entity mod
  'Pfeffer',
  'Salz',
  'Saucenbinder'}
- 
- 
+
 
