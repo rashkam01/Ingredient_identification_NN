@@ -10,7 +10,7 @@ Python pandas library is to read the recipes file. Here is a small snippet of th
 ``` python
 data_frames.head()
 ```
-![df](data_frame_receipe.PNG) 
+![df](data_frame_receipe.PNG)   
 
 ```python
 data_frames.shape
